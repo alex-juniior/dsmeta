@@ -49,12 +49,13 @@ public class Sale {
 		this.visited = visited;
 	}
 
-	public Integer getDells() {
+
+	public Integer getDeals() {
 		return deals;
 	}
 
-	public void setDells(Integer dells) {
-		this.deals = dells;
+	public void setDeals(Integer deals) {
+		this.deals = deals;
 	}
 
 	public Double getAmount() {
